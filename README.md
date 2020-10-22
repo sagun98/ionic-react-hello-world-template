@@ -42,3 +42,5 @@ import '@ionic/react/css/display.css';
 
 - npm install @ionic/react
 - npm install ionicons
+
+![Screenshots](./public/screenshot/ss.png)
